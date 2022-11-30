@@ -1,2 +1,31 @@
 
-/* Your CSS Code here. */
+*
+{
+height:;
+width: ;    
+}
+
+
+.fz{
+    
+display: grid;
+/* background-color: violet; */
+/* height:200px ;
+width: 200px ; */
+grid-template-rows: repeat(2, 200px);
+
+grid-template-columns: repeat(2,200px);
+
+
+}
+
+
+#box
+
+{
+
+background-color:;
+border:1px black solid ;
+margin: px;
+
+}
