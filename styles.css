@@ -26,9 +26,9 @@ display: grid;
 /* background-color: violet; */
 /* height:200px ;
 width: 200px ; */
-grid-template-rows: repeat(2, 200px);
+grid-template-rows: repeat(2, 50px);
 
-grid-template-columns: repeat(2,200px);
+grid-template-columns: repeat(2,50px);
 
 
 }
