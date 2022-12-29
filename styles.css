@@ -1,48 +1,8 @@
 
-*
-{
-height:;
-width: ;    
-}
-
-
-.fz{
-    
-display: grid;
-/* background-color: violet; */
-/* height:200px ;
-width: 200px ; */
-grid-template-rows: repeat(2, 200px);
-*
-{
-height:;
-width: ;    
-}
-
-
 .holder{
     
 display: grid;
-/* background-color: violet; */
-/* height:200px ;
-width: 200px ; */
-grid-template-rows: repeat(2, 50px);
-
-grid-template-columns: repeat(2,50px);
-
-
-}
-
-
-#box
-
-{
-
-background-color:;
-border:1px black solid ;
-margin: px;
-
-}
+grid-template-rows: repeat(2, 200px);
 
 grid-template-columns: repeat(2,200px);
 
@@ -50,12 +10,12 @@ grid-template-columns: repeat(2,200px);
 }
 
 
+
 #box
 
 {
 
 background-color:;
 border:1px black solid ;
-margin: px;
 
 }
